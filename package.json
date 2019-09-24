@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/batemir/helpers/issues"
   },
-  "homepage": "https://github.com/batemir/helpers#readme"
+  "homepage": "https://github.com/batemir/helpers#readme",
+  "dependencies": {
+    "react": "^16.9.0"
+  }
 }
